@@ -1,4 +1,4 @@
-# MovieTrailerWebsite
+# Movie Trailer Website
 
 To run this program and see a list of Om's favorite movies:
 
@@ -14,7 +14,7 @@ If Python is not installed at all, see the documentation here: https://www.pytho
 <h3>Clone the Repository</h3>
 Once you are sure Python 2.7 is installed correctly execute the following:
 
-$ git clone https://github.com/pandeyop/udacity-movie-trailer-website.git<br>
+$ git clone https://github.com/pandeyop/MovieTrailerWebsite.git<br>
 $ cd udacity-movie-trailer-website
 
 <h3>Execute the program:</h3>
