@@ -18,7 +18,7 @@ $ git clone https://github.com/pandeyop/MovieTrailerWebsite.git<br>
 $ cd udacity-movie-trailer-website
 
 <h3>Execute the program:</h3>
-$ python entertainment.py
+$ python entertainment_center.py
 
 A browser should open on your local machine and and render the HTML template with Om's favorite movies. Click on a movie thumbnail to view the trailer!
 
